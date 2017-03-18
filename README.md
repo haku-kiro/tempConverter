@@ -18,4 +18,5 @@ method.
 
 ## Path to important files:
 dll - tempConverter/TempUnitConverter/bin/Debug/tempunitconverter.dll
+
 exe - tempConverter/testPlatform/bin/Debug/testplatform.exe
