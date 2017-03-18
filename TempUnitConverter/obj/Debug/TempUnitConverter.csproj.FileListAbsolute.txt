@@ -1,0 +1,5 @@
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\TempUnitConverter\bin\Debug\TempUnitConverter.dll
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\TempUnitConverter\bin\Debug\TempUnitConverter.pdb
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\TempUnitConverter\obj\Debug\TempUnitConverter.csprojResolveAssemblyReference.cache
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\TempUnitConverter\obj\Debug\TempUnitConverter.dll
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\TempUnitConverter\obj\Debug\TempUnitConverter.pdb

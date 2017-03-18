@@ -1,0 +1,8 @@
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\testPlatform\bin\Debug\testPlatform.exe.config
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\testPlatform\bin\Debug\testPlatform.exe
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\testPlatform\bin\Debug\testPlatform.pdb
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\testPlatform\bin\Debug\TempUnitConverter.dll
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\testPlatform\bin\Debug\TempUnitConverter.pdb
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\testPlatform\obj\Debug\testPlatform.csprojResolveAssemblyReference.cache
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\testPlatform\obj\Debug\testPlatform.exe
+c:\users\mdjco\documents\visual studio 2015\Projects\TempUnitConverter\testPlatform\obj\Debug\testPlatform.pdb
